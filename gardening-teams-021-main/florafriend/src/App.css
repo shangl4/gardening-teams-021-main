@@ -1,0 +1,17 @@
+.initialPage{
+  background-image: url(./images/bg/ipbg.jpg);
+  height: 100vh;
+  display: flex;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.appName{
+  display: flex;
+  color: #0B4B24;
+  align-items: center;
+  font-size: 350%;
+  margin-left: 13%;
+  font-family: cursive;
+}
